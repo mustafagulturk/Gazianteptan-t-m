@@ -2,12 +2,12 @@
   "antep": [
     {
       "isim": "Gaziantep Kalesi",
-      "aciklama": "Gaziantep Kalesi 1071 yılından kalma bir kaledir."
+      "aciklama": "Gaziantep Kalesi 1071 yılından kalma bir kaledir.",
       "fotourl": "https://raw.githubusercontent.com/mustafagulturk/Gazianteptanitim/main/images.jfif"
     },
     {
       "isim": "Bakırcılar Çarşısı",
-      "aciklama": "Bakırcılar Çarşısı çok güzel bir çarşıdır."
+      "aciklama": "Bakırcılar Çarşısı çok güzel bir çarşıdır.",
       "fotourl": "https://raw.githubusercontent.com/mustafagulturk/Gazianteptanitim/main/gaziantep-bakircilar-carsisi-hakkinda-bilgi.jpg"
     }
   ]
