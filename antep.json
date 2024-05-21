@@ -1,13 +1,13 @@
 {
   "antep": [
     {
-      "isim": "Gaziantep Kalesi",
-      "aciklama": "Gaziantep Kalesi 1071 yılından kalma bir kaledir.",
+      "isim": "Tokat Kalesi",
+      "aciklama": "Tokat Kalesi 1071 yılından kalma bir kaledir.",
       "fotourl": "https://raw.githubusercontent.com/mustafagulturk/Gazianteptanitim/main/indir(1).jfif"
     },
     {
-      "isim": "Bakırcılar Çarşısı",
-      "aciklama": "Bakırcılar Çarşısı çok güzel bir çarşıdır.",
+      "isim": "Ballıca Mağarası",
+      "aciklama": "Ballıca Mağarası çok güzel bir mağaradır.",
       "fotourl": "https://raw.githubusercontent.com/mustafagulturk/Gazianteptanitim/main/indir.jfif"
     }
   ]
